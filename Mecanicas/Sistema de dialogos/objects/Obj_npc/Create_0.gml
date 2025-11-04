@@ -1,1 +1,0 @@
-nome = "Kaintõ"
